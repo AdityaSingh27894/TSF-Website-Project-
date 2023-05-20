@@ -2,12 +2,6 @@
   
 Website hosted [here](https://tsf-website.000webhostapp.com/) on 000webhost.  
   
-## Contents  
-  
-1. [Task](#task)  
-2. [Technologies Used](#technologies-used)  
-3. [Working Explanation](#working-explanation)  
-4. [Links](#links)
   
 ## Task  
   
